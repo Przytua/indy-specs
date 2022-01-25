@@ -1,0 +1,1 @@
+CocoaPods specs repository with Hyperledger Indy related pods
